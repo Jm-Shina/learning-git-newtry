@@ -1,4 +1,4 @@
-# learning-git-newtry
+# learning git newtry
 
 ## This repo was used to learn git
 
